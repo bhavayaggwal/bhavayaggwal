@@ -2,7 +2,7 @@
 
 # Bhavay Aggarwal
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Senior+AI+Researcher+%26+Author;LLMs+%7C+RAG+Pipelines+%7C+Synthetic+Data;Building+with+GPT-4o+%7C+Claude+%7C+Gemini)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=AI+Engineer+%26+Author;LLMs+%7C+RAG+Pipelines+%7C+Synthetic+Data;Building+with+GPT-4o+%7C+Claude+%7C+Gemini)](https://git.io/typing-svg)
 
 <br/>
 
