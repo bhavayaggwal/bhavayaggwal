@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="290" viewBox="0 0 1000 290" role="img" aria-label="Bhavay Aggarwal — Freelance AI Developer">
+  <title>Bhavay Aggarwal — Freelance AI Developer</title>
+  <style>
+    .card  { fill: #FAFAF7; stroke: #E4E4DE; }
+    .ink   { fill: #16161A; }
+    .muted { fill: #6B6B66; }
+    .acc   { fill: #0F766E; }
+    .rule  { stroke: #E4E4DE; }
+    .mono  { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; letter-spacing: 1.6px; }
+    .serif { font-family: Georgia, "Iowan Old Style", "Times New Roman", serif; }
+    .sans  { font-family: -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; }
+    @keyframes pulse { 0%,100% { opacity: 1 } 50% { opacity: .35 } }
+    .dot { animation: pulse 2.4s ease-in-out infinite; }
+  </style>
+
+  <rect class="card" x="0.5" y="0.5" width="999" height="289" rx="14" stroke-width="1"/>
+
+  <!-- top meta row -->
+  <circle class="acc dot" cx="44" cy="44" r="4"/>
+  <text class="mono muted" x="58" y="48" font-size="12">STATUS REPORT</text>
+  <text class="mono muted" x="956" y="48" font-size="12" text-anchor="end">INDIA · IST</text>
+
+  <!-- identity -->
+  <text class="serif ink" x="40" y="112" font-size="52">Bhavay Aggarwal</text>
+  <text class="sans muted" x="42" y="146" font-size="18">Freelance AI Developer — AI data quality, delivery, and the Python &amp; SQL that connects them.</text>
+
+  <line class="rule" x1="40" y1="178" x2="960" y2="178" stroke-width="1"/>
+
+  <!-- outcomes -->
+  <g transform="translate(40,0)">
+    <text class="serif ink" x="0" y="226" font-size="32">58 → 78%</text>
+    <text class="mono muted" x="0" y="254" font-size="11">DATA QUALITY · ONE QUARTER · AMAZON NOVA</text>
+  </g>
+  <g transform="translate(372,0)">
+    <text class="serif ink" x="0" y="226" font-size="32">100+</text>
+    <text class="mono muted" x="0" y="254" font-size="11">TRAININGS DELIVERED · KEYWORDS STUDIOS</text>
+  </g>
+  <g transform="translate(694,0)">
+    <text class="serif ink" x="0" y="226" font-size="32">−38%</text>
+    <text class="mono muted" x="0" y="254" font-size="11">CANCELLATIONS · ADOBE · CSAT +63%</text>
+  </g>
+</svg>
